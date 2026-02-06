@@ -32,6 +32,7 @@ sixteen, seventeen, eighteen, nineteen
 twenty, thirty, forty, fifty,  
 sixty, seventy, eighty, ninety
 
+**Notes**: When an English number word increments beyond the supported word range, the result is represented as a numeric string instead of an English word (e.g. `ninety → 91`).
 
 ## Example Behavior
 
